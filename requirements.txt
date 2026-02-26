@@ -9,5 +9,7 @@ keras
 ipykernel
 protobuf<=3.20.3
 rich
+altair==4.2.2
+
 
 
